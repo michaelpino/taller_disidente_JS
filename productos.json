@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "nombre":"Casco tipo 1",
+        "marca":"ACME",
+        "precio":30000
+    },
+    {
+        "id":2,
+        "nombre":"Casco tipo 2",
+        "marca":"Patito",
+        "precio":50000
+    },
+    {
+        "id":3,
+        "nombre":"Casco tipo 3",
+        "marca":"Chancho",
+        "precio":70000
+    },
+    {
+        "id":4,
+        "nombre":"Casco tipo 4",
+        "marca":"Coder",
+        "precio":100000
+    },
+    {
+        "id":5,
+        "nombre":"Chaqueta tipo 1",
+        "marca":"ACME",
+        "precio":150000
+    },
+    {
+        "id":6,
+        "nombre":"Chaqueta tipo 2",
+        "marca":"Patito",
+        "precio":170000
+    },
+    {
+        "id":7,
+        "nombre":"Chaqueta tipo 3",
+        "marca":"Chancho",
+        "precio":120000
+    },
+    {
+        "id":8,
+        "nombre":"Chaqueta tipo 4",
+        "marca":"Coder",
+        "precio":200000
+    }
+]
